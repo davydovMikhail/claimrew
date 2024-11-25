@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/claimrew/static/css/main.bc1dca3e.css",
+    "main.js": "/claimrew/static/js/main.abfc3dd4.js",
+    "index.html": "/claimrew/index.html",
+    "main.bc1dca3e.css.map": "/claimrew/static/css/main.bc1dca3e.css.map",
+    "main.abfc3dd4.js.map": "/claimrew/static/js/main.abfc3dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1dca3e.css",
+    "static/js/main.abfc3dd4.js"
+  ]
+}
